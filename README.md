@@ -1,2 +1,3 @@
 # IntroductionToGit
-My first git repositories
+My first git Repository.
+Author - Nehal Ahmad
