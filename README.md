@@ -1,3 +1,3 @@
 # IntroductionToGit
 My first git Repository.
-Author - Nehal Ahmad
+Author - Nehal Ahmad me
